@@ -1,0 +1,13 @@
+how_can_I_access_AppStore_resp
+
+If you are using an **iOS Mobile Device** you can access the [Apple Store](https://appstoreconnect.apple.com/login).
+
+Otherwise, if you are using an **Android** device you can access the [Google Play Store](https://play.google.com/).
+
+You can access the App Stores as App Manager and App Developer.
+  CARD(If you are using an **iOS Mobile Device** you can access the [Apple Store](https://appstoreconnect.apple.com/login).
+
+Otherwise, if you are using an **Android** device you can access the [Google Play Store](https://play.google.com/).
+
+You can access the App Stores as App Manager and App Developer.)
+  BUTTON(Do you know how to access OneTrust? | Do you know how to access OneTrust?)

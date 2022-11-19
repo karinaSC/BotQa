@@ -1,0 +1,7 @@
+what_is_App_Store_resp
+
+*App Store* is interface ABI and Ambev  Apps with *Google Play* and *Apple Store*. 
+
+Over 70 mobile applications developed by AB-Inbev are published and available for download for internal and external users. 
+
+App Store ensure all Mobile Apps are in compliance with ABI, Google and Apple policies.

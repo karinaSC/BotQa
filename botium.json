@@ -1,0 +1,11 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "stellatest",
+      "CONTAINERMODE": "directline3",
+      "DIRECTLINE3_SECRET": "He7KfdCNIFQ.1K-KKvZTMKuLjNf1BvEOodjPf6Uz2swZfKxvh_ivUxY"
+    },
+    "Sources": {},
+    "Envs": {}
+  }
+}

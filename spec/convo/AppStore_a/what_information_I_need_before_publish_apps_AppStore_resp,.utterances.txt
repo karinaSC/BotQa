@@ -1,0 +1,7 @@
+what_information_I_need_before_publish_apps_AppStore_resp
+
+Before publish your app you need to be aware of the **PIA rules**:
+**1.** The Application owner must open a ticket for Apple Privacy policy update with the application name and its Application owner email in the description. Then, send the request to update the privacy policy so the affected application can be published;
+**2.** The Application owner must check that their PIA is updated and verified on OneTrust to be up to date by the data privacy team;
+**3.** The Application owner must fill in the PIA excel file that will be provided via the ticket;
+**4.** After the approval the analyst updates and publishes the privacy policy on the Apple finishing the process according this [step by step guide](https://help.apple.com/app-store-connect/#/dev1b4647c5b).

@@ -1,0 +1,8 @@
+publish_app_store_resp
+
+If you want to publish new apps or new versions, check the requirements below:
+**1.** Confirmation that there is a PIA request in place (in review) inside OneTrust;
+**2.** Confirmation on the ABI owner of the app;
+**3.** Confirmation on the list of access for devs and app managers;
+**4.** Check if PIA and Apple policy privacy (if app is for Apple store) are matching;
+**5.** If everything is ok, development team will be able to proceed and publish the app.

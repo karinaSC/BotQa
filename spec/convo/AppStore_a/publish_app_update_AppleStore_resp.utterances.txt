@@ -1,0 +1,5 @@
+publish_app_update_AppleStore_resp
+
+For apps that already have Apple policy privacy updated:
+**1.** If there is a new version to be published, you must confirm first with ABI owner that there were no changes on the Apple policy;
+**2.** If the policy has changed, the user access need to be removed until it be updated in Apple Store.
